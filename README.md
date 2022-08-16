@@ -1,6 +1,6 @@
 # sync microsoft edge across devices
 
-[![sync microsoft edge across devices)](https://github.com/twilighttec0h/sync.microsoft.edge.across.devices)
+[![sync microsoft edge across devices](get-detail.png)](https://github.com/twilighttec0h/sync.microsoft.edge.across.devices)
 
 It’s a feature built right into the browser that allows you to synchronize your bookmarks, passwords, browsing history, personal data, and other things so that you can seamlessly access them on every computer or device where you’re using Microsoft Edge.
 
